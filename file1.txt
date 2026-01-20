@@ -1,1 +1,4 @@
+ HEAD
 Git.git changes.stage and commit changes in feature-branch in
+
+Git parent of 74c2f3d (Updated file in feature branch)
