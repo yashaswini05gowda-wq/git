@@ -1,1 +1,1 @@
-Git.git changes
+Git.git changes.stage and commit changes in feature-branch in
